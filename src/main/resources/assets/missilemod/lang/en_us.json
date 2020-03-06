@@ -1,0 +1,6 @@
+{
+	"itemGroup.missilemod": "Missile Mod",
+	"entity.missilemod.missile": "",
+	"item.missilemod.missile_spawn_egg": "Spawn missile temp",
+	"item.missilemod.missile": "Missile"
+}
